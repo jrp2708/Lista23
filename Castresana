@@ -1,0 +1,306 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+ 
+ 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Liga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1080 Multiaudio
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Liga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1080 MultiAudio
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Liga" tvg-id="M+ LaLiga TV HD", M. LaLiga 720
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="Liga" tvg-id="M+ LaLiga TV 2 HD", M. LaLiga 2 1080 Multiaudio
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="Liga" tvg-id="M+ LaLiga TV 2 HD", M. LaLiga 2 720
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="Liga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1080 Multiaudio
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="Liga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1080 Multiaudio
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="Liga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 720
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="Liga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 1080 Multiaudio
+acestream://93d663e92a93845b11c9831885646fa39ba1ed66
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="Liga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 720
+acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="Liga" tvg-id="LaLiga TV BAR HD", LaLiga Tv Bar 1080
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion 1080 MultiAudio
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion 720
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 2 HD", LaLiga Hypermotion 2 1080
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 2 HD", LaLiga Hypermotion 2 720
+acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 3 HD", LaLiga Hypermotion 3 1080
+acestream://59ba45b79152e4599144177b234f6491fc19db53
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Vamos" tvg-id="M+ Vamos HD", Vamos 1080
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Vamos" tvg-id="M+ Vamos HD", Vamos 720
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png" group-title="Vamos" tvg-id="M+ Ellas Vamos HD", Ellas Vamos 720
+acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", M. Deportes 1080
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", M. Deportes 720
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="M Deportes" tvg-id="M+ Deportes 2 HD", M. Deportes 2 1080
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="M Deportes" tvg-id="M+ Deportes 3", M. Deportes 3 1080
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="M Deportes" tvg-id="M+ Deportes 4", M. Deportes 4 1080
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvZ2tSB/deportes5.png" group-title="M Deportes" tvg-id="M+ Deportes 5", M. Deportes 5 1080
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2gkW4PY/deportes6.png" group-title="M Deportes" tvg-id="M+ Deportes 6", M. Deportes 6 1080
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxTVvN1/Deportes7.png" group-title="M Deportes" tvg-id="M+ Deportes 7", M. Deportes 7 1080
+acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones Multiaudio 1080
+acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1080
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 720
+acestream://90beb42e9e276854348bc91a9ff3c3e46c617495
+#EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2  1080
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2  720
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pJ5dZBG/camp03.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 3 HD", M.L. Campeones 3 1080
+acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pJ5dZBG/camp03.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 3 HD", M.L. Campeones 3 720
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GtKncC/camp04.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 4", M.L. Campeones 4 SD
+acestream://1a1b528109edead1904e3dbff575637a452dd1fa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T2m99sr/camp05.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 5", M.L. Campeones 5 SD
+acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K01vG2M/camp06.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 6", M.L. Campeones 6 SD
+acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sbYJhj/camp07.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 7", M.L. Campeones 7 SD
+acestream://d84a90adb6998083403f610ab3fae340b5711b1e
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 1080
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 720
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="Dazn" tvg-id="DAZN 2 HD", DAZN 2 1080
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="Dazn" tvg-id="DAZN 2 HD", DAZN 2 720
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" group-title="Dazn" tvg-id="DAZN 3 HD", DAZN 3 1080
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" group-title="Dazn" tvg-id="DAZN 4 HD", DAZN 4 1080
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 720 
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrxsSFT/f1.png" group-title="F1" tvg-id="I406.1671.tvguide.co.uk", Sky Sports F1 HD
+acestream://468964086ebbd8b067c1a3ec4ebfc4e7a5bc9cc7
+ 
+ 
+  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="Eurosport" tvg-id="EUROSPORT 1 HD", EuroSport 1 1080
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" group-title="Eurosport" tvg-id="EUROSPORT 2", EuroSport 2 1080
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RCWdqMw/onetoro.webp" group-title="Toros" tvg-id="OneToro TV", One Toro TV
+acestream://a893615f34a0216a0d7b2a5dc28f31d370c6a8b3
+
+
+
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gzcQjGn/golf.png" group-title="Otros" tvg-id="M+ Golf HD", M. Golf 1080 
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S56xhwB/golf.png" group-title="Otros" tvg-id="I640.101736.schedulesdirect.org", Golf Mex 720
+acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZd84Mc/ufc.png" group-title="Otros" tvg-id="I892.61704.schedulesdirect.org", UFC
+acestream://63ab9528b16e536be0da44d6f5aceac357292b95
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qfq9dHk/la1.png" group-title="Otros" tvg-id="La 1 HD", LA 1 UHD
+acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qfq9dHk/la1.png" group-title="Otros" tvg-id="La 1 HD", LA 1 1080
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tC1WXNb/gol.png" group-title="Otros" tvg-id="GOL PLAY", GOL TV 1080
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KVVVqpw/tdp.png" group-title="Otros" tvg-id="Teledeporte", tdp 1080  (TeleDeporte) 
+acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n7zmVpK/tenis.png" group-title="Otros" tvg-id="I217.33395.zap2it.com", Tennis Channel
+acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GPRhNLc/cuatro.png" group-title="Otros" tvg-id="Cuatro HD", CUATRO 1080
+acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nc4pj8V/beMad.png" group-title="Otros" tvg-id="Be Mad", BE MAD
+acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qyP5NNV/t5.png" group-title="Otros" tvg-id="Telecinco HD", Telecinco 1080
+acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vVFNGrM/Plus.png" group-title="Otros" tvg-id="Movistar Plus+ HD", Movistar Plus+
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+
+
+ 
+ 
+ 
+  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3FH8R5C/sporttv.png" group-title="Europeos" tvg-id="Sport TV1 POR HD", Sport Tv 1 1080
+acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vLhJHjV/sporttv2.png" group-title="Europeos" tvg-id="Sport TV2 POR HD", Sport Tv 2 1080
+acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fkFY79r/sporttv3.png" group-title="Europeos" tvg-id="Sport TV3 POR HD", Sport Tv 3 
+acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png" group-title="Europeos" tvg-id="I401.1229.tvguide.co.uk", Sky Sport Main Event
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4sF0dt/premier.png" group-title="Europeos" tvg-id="I402.1890.tvguide.co.uk", Sky Sport Premier League
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xFCfq0D/TNTsports1.png" group-title="Europeos" tvg-id="I1207.82450.schedulesdirect.org", TNT Sport 1 1080
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKKyjzv/TNTsports2.png" group-title="Europeos" tvg-id="I1213.82451.schedulesdirect.org", TNT Sport 2 1080
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WyMXtPg/tnt.png" group-title="Europeos" tvg-id="", TNT Sport 3 1080
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WyMXtPg/tnt.png" group-title="Europeos" tvg-id="", TNT Sport 4 1080
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PQb2ttk/viju.png" group-title="Europeos" tvg-id="", Viasat Sport RU
+acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
+
+
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNBrSHS/bein.png" group-title="Latam" tvg-id="I873.76943.schedulesdirect.org", beIN SPORTS Ñ 1080
+acestream://41af6926a6010b68ba2540975761436bb077748f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfyfrzZ/espn.png" group-title="Latam" tvg-id="I896.110964.schedulesdirect.org", ESPN COLOMBIA
+acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hJZK13/espn2.png" group-title="Latam" tvg-id="I895.96876.schedulesdirect.org", ESPN2 COLOMBIA
+acestream://e40b29774fdfd953751a71f5695f647726623b9d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bRvpJc/espn3.png" group-title="Latam" tvg-id="I897.79049.schedulesdirect.org", ESPN3 COLOMBIA
+acestream://b97f5975dbd067655432512d4693b417bc85a714
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mc6n1D3/espnextra.png" group-title="Latam" tvg-id="I898.65930.schedulesdirect.org", ESPN EXTRA COLOMBIA
+acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+
+
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/GHzR8cw/rioira.jpg" group-title="Películas", El río de la ira (2022)
+acestream://24912484479c0e9c4f16f4143c68e485df502dba
+#EXTINF:0 tvg-logo="https://i.ibb.co/6n8gwp3/mentira.jpg" group-title="Películas", El rey de la mentira (2022)
+acestream://44624d7ab1de1884c079820d3be7f8b5d435b63d
+#EXTINF:0 tvg-logo="https://i.ibb.co/d5q7nZ5/libro.jpg" group-title="Películas", El gran libro de oro (2022)
+acestream://3efbcf97c945dcd4b0e3b890fa70a0a12d02c742
+#EXTINF:0 tvg-logo="https://i.ibb.co/p1DYbcP/crater.jpg" group-title="Películas", Crater (2023)
+acestream://3cb701f13e2a1e9ea86a3443c8168d9f024350b8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Y3XHzGy/ghostd.jpg" group-title="Películas", Ghosting (2023)
+acestream://79444aa7bea5bee5b43c5f216ec639f4eb4431a2
+#EXTINF:0 tvg-logo="https://i.ibb.co/ggf9Kdr/despertar.jpg" group-title="Películas", Posesión infernal. El despertar (2023)
+acestream://c920463324e76e4d4b02d04924dcf36beacfa4c6
+#EXTINF:0 tvg-logo="https://i.ibb.co/bK6RMbD/Irati.jpg" group-title="Películas", Irati (2022)
+acestream://1ab2e6f8641333fc0a67d458099610d21ed71d6d
+#EXTINF:0 tvg-logo="https://i.ibb.co/7VxWvdL/Lewan.jpg" group-title="Películas", Lewandowski. Lo desconocido (2023)
+acestream://a14e391476e69dea9ea4db143df3f33c6e9de0c1
+#EXTINF:0 tvg-logo="https://i.ibb.co/ySpYrC1/Best.jpg" group-title="Películas", The Best Man (2023)
+acestream://db3af17ccf214542672c1fe1da3ab4cb00ebc251
+#EXTINF:0 tvg-logo="https://i.ibb.co/WyqtMzS/John-Wick4.jpg" group-title="Películas", John Wick 4 (2023)
+acestream://61c4abd2a1fd66abf8c73b04150a7da1fa40ace7
+#EXTINF:0 tvg-logo="https://i.ibb.co/5FQjdzv/medellin.jpg" group-title="Películas", Medellin (2023)
+acestream://ac8d6c25d0f8522552eb1af4ad534dc36abca81e
+#EXTINF:0 tvg-logo="https://i.ibb.co/BZKgt6K/mario.jpg" group-title="Películas", Super Mario Bros.: la película(2023)
+acestream://5270b9125345785fab0132ec157835b737ed7371
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg" group-title="Películas", Los tres mosqueteros D'Artagnan (2023)
+acestream://6363dcf683f7a1628a150ce7841ef3078a0dc787
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/FiqBRypTDyHzqcxdbpPb3ddFep.jpg" group-title="Películas", Dragon Ball Super Super Hero (2022)
+acestream://ea8905d7de12bd7150547071c0e1921277c3d133
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/to7WStzXWAR2qjZXUZqGvomP0vn.jpg" group-title="Películas",Amigos hasta la muerte (2023)
+acestream://7fb7014ce7dd7cb2d6f62f4bdd716163fd00b974
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6M4jNQaZrL86KcPqrGHb6BvQut0.jpg" group-title="Películas" ,Los Caballeros del Zodíaco (2023)
+acestream://59d9b8eaf91f8b4b4edbfe2d43c6a10b9804c178
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/PounAFKICxbbAF2mGfJFPNfc2R.jpg" group-title="Películas" ,A Dios pongo por testigo (2022)
+acestream://91b7c89387be30a1ba2cb1748e5cd1d90e62b57b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TZGCvp/novedad.jpg" group-title="Películas", Sin novedad en el frente (2022)
+acestream://258cba0d0b93857b24159615d520a85fd5dc1fd2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LZTGyRM/ultimo.jpg" group-title="Películas", Hasta el último hombre (2016)
+acestream://f11fa6afdc0a3805f830b59603381e18641f6b7c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rj9df95/paradise.jpg" group-title="Películas", Paradise (2023)
+acestream://395162be0174109c2ef0b1076100a01af78293f4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQx62nM/sue-o.jpg" group-title="Películas", Un sueño (2023)
+acestream://a7b345604954e7257609298ea06abe5b64671337
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HYWq2Xn/capitan.jpg" group-title="Películas", La fuga del capitán Volkonogov (2021)
+acestream://741ed1b24627f9380d97ffe10c5edd84ed51c0da
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vq5y7JS/sirenita.jpg" group-title="Películas", La sirenita (2023)
+acestream://68e5bb099f88d2ab2c36f00806eb8c999f9b0e07
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2fW74n/matria.jpg" group-title="Películas", Matria (2023)
+acestream://62c4a9b51f23b4c36f6ea911f9488f94730a2b86
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0F7KVH3/transformers.jpg" group-title="Películas", Transformers El despertar de las bestias (2023)
+acestream://91088b5a1c060dccf1b2128972e80cafac1fc965
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7CLjwM/flash.jpg" group-title="Películas", Flash (2023)
+acestream://6285246ed74959c1e97966ac1fe3b9a2ca2b2708
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7KTZ0Yr/tyrone.jpg" group-title="Películas", El clon de Tyrone (2023)
+acestream://5fc7774096e0c4830797ab171e3cf77d283eea90
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tqBNs9/madeleina.jpg" group-title="Películas", Un paseo con Madeleine (2022)
+acestream://d543f7deeef0a57867de624a190272cce7a6ccdc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sjQ8kdj/residentevl.jpg" group-title="Películas", Resident Evil Death Island (2023)
+acestream://e129fbec9282cf8f3b5f6ebb097a72f48e4ff6df
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zm3dfYS/reino.jpg" group-title="Películas", El reino secreto (2023)
+acestream://2b9003d451b9baf3885484b12b53fa9dbdc75882
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0J4MbBd/annie.jpg" group-title="Películas", La indignada Annie (2022)
+acestream://07746753c5f49e87610209651c2b26691fd91b4f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w0fWS7W/ryan.jpg" group-title="Películas", Salvar al soldado Ryan (1998)
+acestream://da884f78f1d53f3d6116aeaac743bfe57e21abbd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ydsFkDd/spiderman.jpg" group-title="Películas", Spider-Man Cruzando el Multiverso (2023)
+acestream://bea09e9c4de96b3a4ec5fe65a0ab1a8faf068b11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mf7Ppk3/novembre.jpg" group-title="Películas", Novembre (2022)
+acestream://e1ec75a04f8ae7a0ca2a96ef2c3e133a398c7091
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DzkxZq4/zom.jpg" group-title="Películas", Zom 100 (2023)
+acestream://72306a20c3867031633cf4273de777179cc7c8bd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N9BbrKd/frente.jpg" group-title="Películas", Frente a frente (2023)
+acestream://0c56b89f7a1598f77f11f3cfb23c59b75c9c7bb2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85mK6MM/george.jpg" group-title="Películas", Big George Foreman (2023)
+acestream://3c84791a44234fcbfa92a132662ba822f7fd0625
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8bXMg4/miraculos.jpg" group-title="Películas", Las aventuras de Ladybug (2023)
+acestream://f6c63cae92c60f3d662b1c13e2a304a36b02b3e4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sjggXnm/iniciados.jpg" group-title="Películas", Los iniciados (2023)
+acestream://9e27c39b1c21ced2787d161277b3b15b8d7a01f9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgk71T/habitantes.jpg" group-title="Películas", Los Habitantes (2023)
+acestream://7cd769f20b6db6f1ecbbed680872f0136b7a0c97
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vYXtYdx/hotel.jpg" group-title="Películas", El hotel de los lios. Garcia y Garcia 2 (2023)
+acestream://c2c0625f49c150b754d35e550068f24f4ffeb95d

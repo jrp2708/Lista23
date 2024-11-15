@@ -77,19 +77,22 @@ http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="M+ #Vamos HD", #Vamos - 720
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 1080 Multi By Alex Aces
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://telegra.ph/file/ac61e19d71db2aafa5f1e.png" ,#Ellas 1080  6765
+acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 1080 Multi By Alex Aces
 http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 1080 Multi Aces
 http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 720
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 720
 http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 2 HD", Dazn La Liga 2 1080 Multi Aces
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/94036fc98a0d900cc62a5.jpg" group-title="LIGA" tvg-id="DAZN LaLiga 2 HD", Dazn La Liga 2 1080 Multi Aces
 http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 2 HD", Dazn La Liga 2 720 Aces
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/94036fc98a0d900cc62a5.jpg" group-title="LIGA" tvg-id="DAZN LaLiga 2 HD", Dazn La Liga 2 720 Aces
 http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 720 Aces

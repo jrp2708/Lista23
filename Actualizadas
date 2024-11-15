@@ -35,6 +35,9 @@ http://127.0.0.1:6878/ace/getstream?id=11744c25a594e17d587ed0871fe40ff21b4bd1e0
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 6", M.Liga De Campeones 6 1080 Aces
 http://127.0.0.1:6878/ace/getstream?id=fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd
 
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 7 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" ,ML Campeones 7 SD  d84a
+acestream://b7f47db93dced60f54e8f89e2366ed061b534049
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 HD", DAZN 1 1080 Aces
 http://127.0.0.1:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
 

@@ -146,9 +146,6 @@ http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/009/121/810/original/pvp-logo-pvp-letter-pvp-letter-logo-design-initials-pvp-logo-linked-with-circle-and-uppercase-monogram-logo-pvp-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="3PPVP" tvg-id="PPVP", PPVP 3
 http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/009/121/810/original/pvp-logo-pvp-letter-pvp-letter-logo-design-initials-pvp-logo-linked-with-circle-and-uppercase-monogram-logo-pvp-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="4PPVP" tvg-id="PPVP", PPVP 3
-http://127.0.0.1:6878/ace/getstream?id=acestream://7cf437be950f3525e735be57c63f7824cab822c9
-
 
 
 

@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB4nSmNw/IMG-9499.png" group-title="TEBAS" tvg-id="DISFRUTAD EN HD", TEBAS CRACK
-http://127.0.0.1:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB4nSmNw/IMG-9499.png" group-title="TEBAS" tvg-id="LALIGATV BAR", DISFRUTE CABALLERO
+acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi Aces
 http://127.0.0.1:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478

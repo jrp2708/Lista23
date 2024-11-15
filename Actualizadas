@@ -2,8 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 
-#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Javier_Tebas#/media/Archivo%3A2019_-_SportsTrade_-_Day_1_PM1_2924_(49019366987)_(cropped).jpg" group-title="TEBAS LIST" tvg-id="TEBASCABRON", Encuentranos en @barcopro
-https://t.me/barcoproxy
+#EXTINF:-1 https://i.postimg.cc/zB4nSmNw/IMG-9499.png group-title="TEBAS LIST" tvg-id="TEBASCABRON", DISFRUTAD PIRATAS
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi Aces
 http://127.0.0.1:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478
@@ -47,10 +46,10 @@ http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="DAZN" tvg-id="DAZN 2 HD", DAZN 2 720 Aces
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="DAZN" tvg-id="DAZN 3 HD", DAZN 3 1080 Aces
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="DAZN" tvg-id="DAZN 3 HD", DAZN 3 1080 Aces
 http://127.0.0.1:6878/ace/getstream?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4.png?ssl=1" group-title="DAZN" tvg-id="DAZN 4 HD", DAZN 4 1080 Aces
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" group-title="DAZN" tvg-id="DAZN 4 HD", DAZN 4 1080 Aces
 http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="DEPORTES" tvg-id="M+ Deportes HD", M.Deportes 1080
@@ -107,7 +106,7 @@ http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/850.png", group-title="EUROSPORT", Eurosport 2 HD orig
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 
-#EXTINF:-1 tvg-logo=""https://img2.sport-tv-guide.live/images/stations/a2451.png" group-title="movistar" tvg-id="Movistar Plus", Movistar Plus Aces
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" group-title="movistar" tvg-id="Movistar Plus", Movistar Plus Aces
 http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 1080  5789

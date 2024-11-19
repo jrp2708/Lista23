@@ -56,10 +56,10 @@ http://127.0.0.1:6878/ace/getstream?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" group-title="DAZN" tvg-id="DAZN 4 HD", DAZN 4 1080 Aces
 http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102
 
-#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIG2",Copa 1080
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://i.postimg.cc/FsD4VnV8/IMG-9554.png",Copa 1080
 acestream://a12a16f74cf12799d4475ae867dc61eb60e1ba2e
 
-#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIG2",Copa 1080
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://i.postimg.cc/FsD4VnV8/IMG-9554.png",Copa 1080
 acestream://bdfe9ebe62d690c1b13eef4346d72e618cfbe804
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="DEPORTES" tvg-id="M+ Deportes HD", M.Deportes 1080

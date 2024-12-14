@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
- 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB4nSmNw/IMG-9499.png" group-title="TEBAS" tvg-id="LALIGATV BAR", DISFRUTE CABALLERO
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
 

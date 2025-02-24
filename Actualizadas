@@ -45,13 +45,10 @@ http://127.0.0.1:6878/ace/getstream?id=fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd
 acestream://b7f47db93dced60f54e8f89e2366ed061b534049
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 HD", DAZN 1 1080 Aces
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 HD", DAZN 1 1080 Aces
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 HD", DAZN 1 1080 Aces
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 HD", DAZN 1 720 Aces
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
@@ -186,7 +183,7 @@ acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" group-title="movistar" tvg-id="Movistar Plus", Movistar Plus Aces
-acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 UHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 uhd  
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041

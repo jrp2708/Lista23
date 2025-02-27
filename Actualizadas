@@ -186,16 +186,22 @@ acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 UHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 uhd  
-acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
 
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 1080  
-acestream://5789ca155323664edd293b848606688edf803f4d
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 1080  
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
+acestream://dea87ce042a085fb892c12d1bf3be428e824237d
 
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 720  
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+acestream://b2543904857ebc4689f1b6659c09a94c6f661c41
+
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 alonso 720  
+acestream://f40baf2e9165ce5dec1d4fa1ecb5e0475ab7b3b0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QKf6zD6/IMG-9559.png" group-title="Varios Acestream" tvg-id="M+ Golf HD", M. Golf
-http://127.0.0.1:6878/ace/getstream?id=688cc3af0f517c598e07d35f1ce79f8bcba17d81
+http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QKf6zD6/IMG-9559.png" group-title="Varios Acestream" tvg-id="M+ Golf HD", M. Golf
+http://127.0.0.1:6878/ace/getstream?id=6b3989747ca94e5d75875a97b4ed843d1a8d43bc
